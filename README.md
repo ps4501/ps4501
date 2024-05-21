@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paridhi Singh</h1>
 <h3 align="center">Future Data Scientist @ UofA | Committed to Uncovering Insights with Data</h3>
 
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+![](https://komarev.com/ghpvc/?username=ps4501&color=Purple)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ps4501" alt="ps4501" /></a> </p>
 
