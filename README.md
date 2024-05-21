@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paridhi Singh</h1>
 <h3 align="center">Future Data Scientist @ UofA | Committed to Uncovering Insights with Data</h3>
 
-![](https://komarev.com/ghpvc/?username=ps4501&color=Purple)
+![](https://komarev.com/ghpvc/?username=ps4501&color=blueviolet)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ps4501" alt="ps4501" /></a> </p>
 
 <h3>When I analyze data, I rely on</h3>
 <p>
@@ -46,6 +45,7 @@
 </a> 
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps4501&" alt="ps4501" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ps4501"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ps4501" /></a></p><br><br>
