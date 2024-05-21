@@ -45,7 +45,7 @@
 </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps4501&background=000000" alt="ps4501" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps4501&" alt="ps4501" /></p>
 
 
 <h3 align="left">Support:</h3>
